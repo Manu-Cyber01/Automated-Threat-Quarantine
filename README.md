@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Project Title: Python Antivirus Simulation.
 Description: A tool that uses SHA-256 hashing and signature matching to detect and quarantine files.
 How to Run: python main.py
 Key Features: Recursive scanning, SHA-256 hashing, JSON reporting, and file quarantine.
+=======
+This project is a Python antivirus simulation that scans files within a directory, hashes each file, and compares the hashes against a set of known signatures stored in a JSON database. When a match is found, the file is flagged as infected and moved to a quarantine folder. The tool also generates a report summarizing scanned, infected, and error files. It serves as an educational demonstration of core cybersecurity concepts like signature-based detection, file hashing, and quarantine management.
+>>>>>>> 57cdd3528bc79b8392f4a15b4699826b78750a7f
