@@ -1,0 +1,29 @@
+{
+  "signatures": [
+    {
+      "name": "demo-file-1",
+      "hash": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+      "family": "demo"
+    },
+    {
+      "name": "demo-file-2",
+      "hash": "486ea46224d1bb4fb680f34f7c9ad96a8d7e2b6f5b4d6d8a7d6a6d0f6b3a3d2c",
+      "family": "demo"
+    },
+    {
+      "name": "demo-file-3",
+      "hash": "8f434346648f6b96df89dda901c5176b10a6d3a9c3f2f7b3e1f0a1f4e2c9d1a0",
+      "family": "demo"
+    },
+    {
+      "name": "demo-file-4",
+      "hash": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+      "family": "demo"
+    },
+    {
+      "name": "demo-file-5",
+      "hash": "3608bca1e44ea6c4d268eb6db0226026b1b6a7d4f0c0b0f2c7d4b8f3d2c1a9e0",
+      "family": "demo"
+    }
+  ]
+}

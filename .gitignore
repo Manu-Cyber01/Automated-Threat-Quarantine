@@ -1,0 +1,4 @@
+report.json
+quarantine/
+__pycache__/
+*.pyc
